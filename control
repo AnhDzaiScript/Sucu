@@ -1,0 +1,15 @@
+Package: com.bonios.esppro
+Name: BONIOS-ESP SUPPORT ALL VERSION
+Depends: firmware (>= 8.0)
+Version: 3.1.0
+Section: Games
+Architecture: iphoneos-arm
+Description: Buy Hack - https://bonioshax.vn
+SileoDepiction: Buy Hack - https://bonioshax.vn
+dev: BoniOS
+Tag: BoniOS
+Maintainer: BoniOS
+Author: BoniOS
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Homepage: https://bonioshax.vn
+
